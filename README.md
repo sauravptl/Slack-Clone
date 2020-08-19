@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Demo : https://slack-app-60a27.web.app/
+
 First run:
 
 ## `npm install`
